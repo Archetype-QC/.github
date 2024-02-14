@@ -12,7 +12,8 @@ Test
   
 -----------------------------------------------------------------  
 # Archetype QC  
-Blablala  
+Archetype QC is an initiative of the Ministère de l'Environnement, de la Lutte contre les Changements Climatiques, de la Faune et des Parcs (MELCCFP), Concordia University, École Polytechnique de Montréal and Hydro-Québec. Ultimately, the initiative aims to develop a virtual representation (models) of Quebec's residential, commercial and institutional building stock. These models will be used to simulate various scenarios for implementing energy efficiency and flexibility measures throughout Quebec.
+   
 Composed of 3 repositories:  
 - [data](https://github.com/Archetype-QC/data)  
 - [models](https://github.com/Archetype-QC/models)  
