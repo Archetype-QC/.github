@@ -18,6 +18,9 @@ L'initiative est ouverte à toutes contributions provenant d'acteurs externes, n
 - Développements de modèles (OpenStudio/EnergyPlus) représentatifs du parc de bâtiments québécois ou de modèles dérivés de ceux déjà inclus dans la librairie de modèles;  
 - Toute autre contribution d'intérêt, etc.  
    
+## Licence  
+Dans chaque dépôt, 2 fichiers de licence sont fournis: un en français et un en anglais. Les 2 fichiers suivent évidemment la même licence qui est basée sur les licences libres du Québec (LiLiQ). Plus spécifiquement, il s'agit de la licence [LiLiQ-P](https://forge.gouv.qc.ca/licence/liliq-p/).  
+  
 ## Contact:  
 Benoit Delcroix, chercheur @ Hydro-Québec, delcroix.benoit@hydroquebec.com  
 
@@ -39,6 +42,9 @@ The initiative is open to all contributions from external players, in particular
 - Donations of data representative of the Quebec building stock (residential, commercial or institutional);  
 - Development of models (OpenStudio/EnergyPlus) representative of the Quebec building stock, or models derived from those already included in the model library;  
 - Any other contribution of interest, etc.  
+  
+## License  
+In each repository, 2 license files are provided: one in French and one in English. The 2 files obviously follow the same license, which is based on the Quebec Free Licenses (LiLiQ). More specifically, the license is [LiLiQ-P](https://forge.gouv.qc.ca/licence/en/liliq-p/).  
   
 ## Contact:  
 Benoit Delcroix, researcher @ Hydro-Québec, delcroix.benoit@hydroquebec.com
