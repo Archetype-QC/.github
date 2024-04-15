@@ -22,7 +22,12 @@ L'initiative est ouverte à toutes contributions provenant d'acteurs externes, n
 Dans chaque dépôt, 2 fichiers de licence sont fournis: un en français et un en anglais. Les 2 fichiers suivent évidemment la même licence qui est basée sur les licences libres du Québec (LiLiQ). Plus spécifiquement, il s'agit de la licence [LiLiQ-P](https://forge.gouv.qc.ca/licence/liliq-p/).  
   
 ## Contact:  
-Benoit Delcroix, Chercheur, Centre de Recherche d'Hydro-Québec, delcroix.benoit@hydroquebec.com   
+Benoit Delcroix, Chercheur, Centre de Recherche d'Hydro-Québec, delcroix.benoit@hydroquebec.com  
+Simon Sansregret, Chercheur, Centre de Recherche d'Hydro-Québec, sansregret.simon@hydroquebec.com  
+Cédric Daval, Ingénieur, Hydro-Québec, daval.cedric@hydroquebec.com  
+Christian Chabot, Ingénieur, Ministère de l'Environnement, de la Lutte contre les Changements Climatiques, de la Faune et des Parcs, christian.chabot@mern.gouv.qc.ca  
+Ursula Eicker, Professeur, Université Concordia, ursula.eicker@concordia.ca  
+Michaël Kummert, Professeur, Polytechnique Montréal, michael.kummert@polymtl.ca  
 
 -----------------------------------------------------------------  
 # Archetype QC  
@@ -47,4 +52,9 @@ The initiative is open to all contributions from external players, in particular
 In each repository, 2 license files are provided: one in French and one in English. The 2 files obviously follow the same license, which is based on the Quebec Free Licenses (LiLiQ). More specifically, the license is [LiLiQ-P](https://forge.gouv.qc.ca/licence/en/liliq-p/).  
   
 ## Contact:  
-Benoit Delcroix, Researcher, Hydro-Québec Research Institute, delcroix.benoit@hydroquebec.com 
+Benoit Delcroix, Researcher, Hydro-Québec Research Institute, delcroix.benoit@hydroquebec.com  
+Simon Sansregret, Researcher, Hydro-Québec Research Institute, sansregret.simon@hydroquebec.com  
+Cédric Daval, Engineer, Hydro-Québec, daval.cedric@hydroquebec.com  
+Christian Chabot, Engineer, Ministère de l'Environnement, de la Lutte contre les Changements Climatiques, de la Faune et des Parcs, christian.chabot@mern.gouv.qc.ca  
+Ursula Eicker, Professor, Concordia University, ursula.eicker@concordia.ca  
+Michaël Kummert, Professor, Polytechnique Montréal, michael.kummert@polymtl.ca 
