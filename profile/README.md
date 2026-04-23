@@ -10,15 +10,10 @@ En aucun cas, les auteurs, contributeurs ou organisations associées à ce dép�
 # Archétype QC  
 Archétype QC est une initiative portée par le Ministère de l'Environnement, de la Lutte contre les Changements Climatiques, de la Faune et des Parcs (MELCCFP) du Québec, l'Université Concordia, l'École Polytechnique de Montréal et Hydro-Québec. À terme, l'initiative vise à développer une représentation virtuelle (des modèles) du parc de bâtiments résidentiels, commerciaux et institutionnels du Québec. Ces modèles permettront notamment de simuler divers scénarios d'implantation de mesures d'efficacité et flexibilité énergétiques à l'échelle du Québec.  
      
-Archétype QC est agencé autour de 3 dimensions:  
-- Une librairie de données qui permet de caratériser le parc de bâtiments du Québec;  
-- Une librairie de modèles qui permet de simuler de manière représentative le parc de bâtiments;  
-- Une plateforme qui permet d'exploiter les 2 librairies précédentes pour adresser les besoins, principalement reliés à l'évaluation des impacts de l'implantation de technologies ou à la prévision de la demande énergétique dans le futur.  
-  
-Afin de refléter cette structure, ce projet est composé de 3 dépôts sur GitHub:  
-- [Donnees-Data](https://github.com/Archetype-QC/Donnees-Data): dépôt concernant le développement de la librairie de données;  
+Archétype QC fournit, pour le moment, 3 types de ressources répartis dans les dépôts suivants:  
 - [Modeles-Models](https://github.com/Archetype-QC/Modeles-Models): dépôt concernant le développement de la librairie de modèles;  
-- [Plateforme-Platform](https://github.com/Archetype-QC/Plateforme-Platform): dépôt concernant le développement de la plateforme.  
+- [Meteo-Weather](https://github.com/Archetype-QC/Meteo-Weather): dépôt contenant les fichiers météo historiques du Québec;
+- [Outils-Tools](https://github.com/Archetype-QC/Outils-Tools): dépôt contenant des outils divers reliés à la modélisation énergétique des bâtiments.  
   
 L'initiative est ouverte à toutes contributions provenant d'acteurs externes, notamment:  
 - Dons de données représentatives du parc de bâtiments québécois (résidentiel, commercial ou institutionnel);  
@@ -47,15 +42,10 @@ Under no circumstances shall the authors, contributors, or any affiliated organi
 # Archetype QC  
 Archetype QC is an initiative of Québec's Ministère de l'Environnement, de la Lutte contre les Changements Climatiques, de la Faune et des Parcs (MELCCFP), Concordia University, École Polytechnique de Montréal and Hydro-Québec. Ultimately, the initiative aims to develop a virtual representation (models) of Quebec's residential, commercial and institutional building stock. These models will be used to simulate various scenarios for implementing energy efficiency and flexibility measures throughout Quebec.
    
-Archetype QC is organized around 3 dimensions:  
-- A data library to characterize Quebec's building stock;  
-- A model library for representative simulation of the building stock;  
-- A platform for exploiting the above 2 libraries to address needs, mainly related to assessing the impact of implementing technologies or to forecasting future energy demand.  
-
-To reflect this structure, this project is made up of 3 repositories on GitHub:  
-- [Donnees-Data](https://github.com/Archetype-QC/Donnees-Data): repository for data library development;  
-- [Modeles-Models](https://github.com/Archetype-QC/Modeles-Models): repository for model library development;  
-- [Plateforme-Platform](https://github.com/Archetype-QC/Plateforme-Platform): repository for platform development.  
+Archetype QC currently provides 3 types of resources spread across the following repositories:  
+- [Modeles-Models](https://github.com/Archetype-QC/Modeles-Models): repository for the development of the model library;  
+- [Meteo-Weather](https://github.com/Archetype-QC/Meteo-Weather): repository containing historical weather files for Quebec;  
+- [Outils-Tools](https://github.com/Archetype-QC/Outils-Tools): repository containing various tools related to building energy modeling.  
   
 The initiative is open to all contributions from external players, in particular:  
 - Donations of data representative of the Quebec building stock (residential, commercial or institutional);  
